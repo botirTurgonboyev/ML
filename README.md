@@ -12,3 +12,5 @@ Machine Learning
 3.dataset *housing_LR.csv* Toshkentdagi uylarning narxlari haqida
 
 ***Multiple_Linear_Regression*** Toshkentdagi uylarni narxini bashorat qiluvchi model *Multiple Regression model*
+
+4.dataset *China_GDP.csv* Xitoyning 1960–2014 yillar oraligʻidagi YaIM (Yalpi Ichki Mahsulot / GDP) koʻrsatkichlari haqida
