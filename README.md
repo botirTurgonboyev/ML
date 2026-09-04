@@ -16,3 +16,7 @@ Machine Learning
 4.dataset *China_GDP.csv* Xitoyning 1960–2014 yillar oraligʻidagi YaIM (Yalpi Ichki Mahsulot / GDP) koʻrsatkichlari haqida
 
 ***Linear_Regression*** Polynomial regression *Non_linear_regression*
+
+5.dataset *diabets.csv* diabet aniqlangan yoki aniqlanmagan bemorlar haqidagi dataset
+
+***k-nn classification*** eng yaxshi k ni topib model quramiz *k-nn classification diabetni aniqlash*
