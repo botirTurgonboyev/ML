@@ -20,3 +20,7 @@ Machine Learning
 5.dataset *diabets.csv* diabet aniqlangan yoki aniqlanmagan bemorlar haqidagi dataset
 
 ***k-nn classification*** eng yaxshi k ni topib model quramiz *k-nn classification diabetni aniqlash*
+
+6.dataset *Mijozlar_roziligi.csv* mijozlarning rozi yoki rozimasligi haqida. *ustunlar_haqida.csv* esa datasetning ustunlari haqida ma'lumot
+
+**classification_mijozning_noroziligini_aniqlash**  har xil modellarni yasab xatoliklarni chiqarganman.
