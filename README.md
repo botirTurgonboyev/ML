@@ -24,3 +24,7 @@ Machine Learning
 6.dataset *Mijozlar_roziligi.csv* mijozlarning rozi yoki rozimasligi haqida. *ustunlar_haqida.csv* esa datasetning ustunlari haqida ma'lumot
 
 **classification_mijozning_noroziligini_aniqlash**  har xil modellarni yasab xatoliklarni chiqarganman.
+
+7.dataset *breast-cancer.csv* ko'krat saratoni bo'yicha bemorlar haqida dataset
+
+**Ko'krak saratonini aniqlash k-nn** k-nn orqali ko'krak saratanoni aniqlovchi model
